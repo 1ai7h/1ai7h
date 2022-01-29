@@ -14,7 +14,7 @@
   - Linked Lists
   - depth first search
   - breadth first search
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything Data Science/Math related! 
 - 📫 How to reach me through Linkedin on my profile or here! 
 
 <!---
