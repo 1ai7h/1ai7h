@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1ai7h or Laith Kamal! 
 - 👀 I’m interested in Capital Markets! 
-- 🌱 I’m currently learning effective coding and problem solving!
+- 🌱 I’m currently learning several libraries and problem solving!
 - 📫 How to reach me: Through Linkedin on my profile or here! 
 
 <!---
