@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1ai7h or Laith Kamal! 
-- 👀 I’m interested in Capital Markets! 
-- 🌱 I’m currently learning several libraries and problem solving!
+- 👀 I’m interested in Finance and Cars! 
+- 🌱 I’m currently learning how to use MERN Stack to develope some cool apps.
 - 📫 How to reach me: Through Linkedin on my profile or here! 
 
 <!---
